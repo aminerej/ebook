@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743546608653",
+    "project_id": "ebook-154b3",
+    "storage_bucket": "ebook-154b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743546608653:android:58d2c9ec1dda2dfecf0944",
+        "android_client_info": {
+          "package_name": "amine.ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743546608653-lgbp14c7hh28sn12ho6l4deti70pdesu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjTZkvyK7JwVUzjWlaNDjWXq4ArgUm7UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743546608653-lgbp14c7hh28sn12ho6l4deti70pdesu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
